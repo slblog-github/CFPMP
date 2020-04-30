@@ -7,7 +7,7 @@
             </a>.</span>
         <br />
         <span>
-            <a href="https://github.com/Netrvin/CFPMP" target="_blank">CFPMP</a> v0.2.3</span>
+            <a href="https://www.slblog.ga/" target="_blank">SL博客</a></span>
     </center>
 </div>
 </body>
