@@ -4,7 +4,7 @@
 define("HOST_KEY","");
 
 // 站点名称
-define("SITE_NAME","");
+define("SITE_NAME","SL Domain Dns");
 
 // reCAPTCHA配置
 define("Enable_reCAPTCHA",false);
