@@ -12,4 +12,4 @@ define("reCAPTCHA_Site","");
 define("reCAPTCHA_Secret","");
 
 //A记录解析（基于sslip.io）
-define("Enable_A_Record",false);
+define("Enable_A_Record",true);
